@@ -1,0 +1,57 @@
+.myNav {
+    background-color: black;
+    border: 7px solid black;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.nav-link {
+    background-color: rgb(68, 71, 80);
+    border:2px solid rgb(68, 71, 80);
+    border-radius: 4px;
+    margin-right: 5px;
+    color: white;
+}
+
+.fork {
+    background-color: black;
+}
+
+.nav-link:hover {
+    color: white !important;
+    background-color: rgb(99, 102, 119);
+}
+
+.header {
+    margin-top: 25px;
+    background-color: rgb(232, 235, 238);
+}
+
+.intro {
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
+
+.article {
+    margin-top: 30px;
+}
+
+.article h4 {
+    text-align: center;
+}
+
+.article h5 {
+    margin-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+}
